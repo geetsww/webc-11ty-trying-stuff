@@ -1,0 +1,8 @@
+<p>This is the slot: <slot/></p>
+<p @html="'Hello ' + this.name"></p>
+
+<style webc:scoped>
+    p{
+        background-color: red;
+    }
+</style>

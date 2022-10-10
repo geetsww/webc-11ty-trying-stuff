@@ -1,0 +1,5 @@
+---
+layout: "layout.webc"
+title: "This is my index page"
+---
+<my-component @name="Mathieu">SLot content</my-component>

@@ -1,0 +1,16 @@
+{
+    "name": "tqt",
+    "version": "1.0.0",
+    "description": "",
+    "main": ".eleventy.js",
+    "scripts": {
+      "build": "npx @11ty/eleventy"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@11ty/eleventy-plugin-webc": "^0.4.0"
+    }
+  }
+  
